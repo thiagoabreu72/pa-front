@@ -1,0 +1,36 @@
+
+.fundo{
+    background-color: #777;
+}
+.alinhamento{
+    text-align: center;
+}
+
+.fontes{
+    font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+    font-size: x-large;
+    text-align: center;
+    color: whitesmoke;
+}
+
+div.gallery {
+  margin: 2rem;
+  margin-top: 2rem;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid rgb(66, 65, 65);
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}

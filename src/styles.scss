@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-image: url("./assets/imagens/5634944.jpg");
+  background-size: 100%;
+  //background-color: #777;
+}
+
+.form {
+  border-radius: 10px;
+}
+
+.fundo {
+  background-color: #777;
+}
+.alinhamento {
+  text-align: center;
+}
+
+.fontes {
+  font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+  font-size: x-large;
+  text-align: center;
+  color: whitesmoke;
+}
